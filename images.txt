@@ -3,6 +3,6 @@
 mysql:8.0.40
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-ghcr.io/catthehacker/ubuntu:act-latest
-ghcr.io/catthehacker/ubuntu:full-latest
+#ghcr.io/catthehacker/ubuntu:act-latest
+#ghcr.io/catthehacker/ubuntu:full-latest
 redis:7.4.2
