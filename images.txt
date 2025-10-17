@@ -6,3 +6,6 @@
 #ghcr.io/catthehacker/ubuntu:act-latest
 #ghcr.io/catthehacker/ubuntu:full-latest
 #redis:7.4.2
+
+ghcr.io/catthehacker/ubuntu:js-24.04
+ghcr.io/catthehacker/ubuntu:java-tools-24.04
