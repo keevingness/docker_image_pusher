@@ -9,3 +9,4 @@
 
 ghcr.io/catthehacker/ubuntu:js-24.04
 ghcr.io/catthehacker/ubuntu:java-tools-24.04
+ghcr.io/catthehacker/ubuntu:go-latest
