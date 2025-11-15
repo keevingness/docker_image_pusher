@@ -12,4 +12,4 @@
 #ghcr.io/catthehacker/ubuntu:go-latest
 
 #rancher/mirrored-pause:3.6
-registry.k8s.io/metrics-server/metrics-server:v0.8.0
+pytorch/pytorch:2.9.0-cuda13.0-cudnn9-runtime
