@@ -16,6 +16,6 @@
 #docker.io/istio/pilot:1.28.0
 #rancher/mirrored-coredns-coredns:1.12.3
 
-bitnami/etcd:3.5.7
+etcd:3.5.7-debian-11-r14
 apache/apisix:3.8.0-debian
 apache/apisix-dashboard:3.0.1-alpine
