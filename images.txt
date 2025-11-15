@@ -12,4 +12,5 @@
 #ghcr.io/catthehacker/ubuntu:go-latest
 
 #rancher/mirrored-pause:3.6
-pytorch/pytorch:2.9.0-cuda13.0-cudnn9-runtime
+docker.io/istio/proxyv2:1.28.0
+docker.io/istio/pilot:1.28.0
