@@ -14,4 +14,8 @@
 #rancher/mirrored-pause:3.6
 #docker.io/istio/proxyv2:1.28.0
 #docker.io/istio/pilot:1.28.0
-rancher/mirrored-coredns-coredns:1.12.3
+#rancher/mirrored-coredns-coredns:1.12.3
+
+bitnami/etcd:3.5.7
+apache/apisix:3.8.0-debian
+apache/apisix-dashboard:3.0.1-alpine
