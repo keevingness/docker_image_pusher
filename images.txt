@@ -11,11 +11,4 @@
 #ghcr.io/catthehacker/ubuntu:java-tools-24.04
 #ghcr.io/catthehacker/ubuntu:go-latest
 
-#rancher/mirrored-pause:3.6
-#docker.io/istio/proxyv2:1.28.0
-#docker.io/istio/pilot:1.28.0
-#rancher/mirrored-coredns-coredns:1.12.3
-
-etcd:3.5.7-debian-11-r14
-apache/apisix:3.8.0-debian
-apache/apisix-dashboard:3.0.1-alpine
+nginx:latest
